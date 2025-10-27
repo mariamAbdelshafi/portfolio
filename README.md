@@ -39,6 +39,6 @@ Je cherche un stage en Data Science/Intelligence artificielle de 4 mois à parti
 
 # 📬 Contact
 
-- 💼 [LinkedIn] <www.linkedin.com/in/mariam-abdelshafi-4a84322b5>
+- 💼 [LinkedIn] www.linkedin.com/in/mariam-abdelshafi-4a84322b5
 - 📧 [Email] <abdelshafi.mariam@gmail.com>
 
