@@ -28,3 +28,37 @@ SaveSpot est une application mobile développée avec Flutter qui aide les étud
 
 ## 📸 Aperçu
 *(Ajoute ici quelques captures d’écran du projet une fois prêtes)*  
+
+---
+
+# 🗺️ SaveSpot — Erasmus Student Deals App
+
+## 🎯 Objective
+SaveSpot is a Flutter-based mobile app designed to help Erasmus students discover, share, and save local deals, from restaurants and cafés to events, housing, and cultural places.
+
+## 🧰 Tools & Technologies
+- **Language**: Dart  
+- **Framework**: Flutter  
+- **Database**: Firebase  
+- **Other tools**: Figma (UI design), Android Studio  
+
+## 🔍 Key Features
+- 🔑 **Authentication**: secure account creation and login via Firebase  
+- 🏠 **Home Page**: displays popular spots and personalized recommendations  
+- 🔍 **Search by Category**: filter by type (restaurant, culture, etc.)  
+- ❤️ **Favorites**: add, remove, and view saved places  
+- 👤 **User Profile**: manage personal information and preferences  
+- 💬 **Comments**: view and add feedback for locations  
+
+## 📈 Highlights
+- Modern, user-friendly interface 
+- Modular code structure enabling easy scalability  
+- Real-time synchronization with Firebase for user data and favorites  
+
+## 💡 What I Learned
+- Building responsive UIs with Flutter  
+- State management and cloud database integration  
+- Applying best practices for mobile project organization  
+
+## 📸 Preview
+*(Add screenshots of the project once available)*  
