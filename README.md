@@ -12,7 +12,7 @@ Je cherche un stage en Data Science/Intelligence artificielle de 4 mois à parti
 # 🚀 Projets principaux
 
 ### 🧮 [Demographic Data Analyzer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Demographic%20Data%20Analyzer)
-Analyse statistique d’un ensemble de données démographiques avec Python, Pandas et Matplotlib.  
+Analyse statistique d’un ensemble de données démographiques avec Python, Pandas et Matplotlib (Certification *Data Analysis with Python*, FreeCodeCamp).  
 Objectif : explorer les relations entre différents facteurs socio-économiques.
 ### 🧠 [Medical Data Visualizer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Medical%20Data%20Visualizer)
 Projet de visualisation de données médicales (Certification *Data Analysis with Python*, FreeCodeCamp).  
@@ -21,7 +21,7 @@ Création de graphiques pour explorer les corrélations entre les indicateurs de
 Application mobile Flutter pour les étudiants Erasmus.  
 Permet de découvrir, enregistrer et partager des bons plans (restaurants, cafés, lieux culturels, etc.).
 ### 🌊 [Sea Level Predictor](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Sea%20Level%20Predictor)
-Projet de prédiction du niveau de la mer basé sur les données de la NASA (*EPA Sea Level Dataset*).  
+Projet de prédiction du niveau de la mer (*EPA Sea Level Dataset*) (Certification *Data Analysis with Python*, FreeCodeCamp).  
 Utilisation de régressions linéaires pour visualiser et prédire la montée du niveau des océans d’ici 2050.
 
 # 🧰 Compétences techniques
@@ -57,16 +57,24 @@ Welcome to my GitHub portfolio!
 I am passionate about computer science and technology, with a particular interest in data, analytics, and creating innovative solutions to address complex challenges.  
 This portfolio showcases my most significant projects.
 
----
-
 # 🧠 About Me
 
 🎓 I am a Computer Science student with a strong interest in Data Science and Data Exploration.  
 I am currently looking for a 4-month internship in Data Science or Artificial Intelligence starting in April, where I can apply my skills and learn alongside experienced professionals.
 
 # 🚀 Main Projects
-
----
+### 🧮 [Demographic Data Analyzer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Demographic%20Data%20Analyzer)
+Statistical analysis of a demographic dataset using Python, Pandas, and Matplotlib (Certification *Data Analysis with Python*, FreeCodeCamp).  
+Goal: explore relationships between different socio-economic factors.
+### 🧠 [Medical Data Visualizer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Medical%20Data%20Visualizer)
+Medical data visualization project (Certification *Data Analysis with Python*, FreeCodeCamp).  
+Creation of charts to explore correlations between health indicators and cardiovascular diseases.
+### 📱 [SaveSpot](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/SaveSpot)
+Flutter mobile application for Erasmus students.  
+Allows users to discover, save, and share local hotspots (restaurants, cafés, cultural places, etc.).
+### 🌊 [Sea Level Predictor](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Sea%20Level%20Predictor)
+Sea level prediction project (*EPA Sea Level Dataset*) (Certification *Data Analysis with Python*, FreeCodeCamp).  
+Uses linear regression to visualize and predict ocean level rise up to 2050.
 
 # 🧰 Technical Skills
 
