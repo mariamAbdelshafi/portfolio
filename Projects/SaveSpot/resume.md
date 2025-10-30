@@ -27,6 +27,8 @@ SaveSpot est une application mobile développée avec Flutter qui aide les étud
 - Bonnes pratiques de structuration de projet mobile  
 
 ## 📸 Aperçu
+Vous pouvez aller consulter les captures d'écran de l'application dans le dossier suivant:
+[Projects/SaveSpot/results](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/SaveSpot/results)
 
 ---
 
@@ -60,3 +62,5 @@ SaveSpot is a Flutter-based mobile app designed to help Erasmus students discove
 - Applying best practices for mobile project organization  
 
 ## 📸 Preview
+You can see the preview of the application with the screenshots in the following folder:
+[Projects/SaveSpot/results](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/SaveSpot/results)
