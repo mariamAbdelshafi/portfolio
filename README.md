@@ -10,7 +10,6 @@ Ce portfolio regroupe mes projets les plus significatifs.
 Je cherche un stage en Data Science/Intelligence artificielle de 4 mois à partir du mois d'avril pour mettre mes compétences en pratique tout en apprenant aux côtés de professionnels expérimentés.
 
 # 🚀 Projets principaux
-# 🚀 Projets principaux
 
 ### 🧮 [Demographic Data Analyzer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Demographic%20Data%20Analyzer)
 Analyse statistique d’un ensemble de données démographiques avec Python, Pandas et Matplotlib.  
