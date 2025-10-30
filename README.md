@@ -46,7 +46,7 @@ Utilisation de régressions linéaires pour visualiser et prédire la montée du
 
 # 📬 Contact
 
-- 💼 [LinkedIn](www.linkedin.com/in/mariam-abdelshafi-4a84322b5)
+- 💼 [LinkedIn] www.linkedin.com/in/mariam-abdelshafi-4a84322b5
 - 📧 [Email] abdelshafi.mariam@gmail.com
 
  ---
@@ -98,5 +98,5 @@ UML, Scrum
 
 # 📬 Contact
 
-- 💼 [LinkedIn](www.linkedin.com/in/mariam-abdelshafi-4a84322b5)  
+- 💼 [LinkedIn] www.linkedin.com/in/mariam-abdelshafi-4a84322b5
 - 📧 [Email] abdelshafi.mariam@gmail.com
