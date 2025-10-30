@@ -41,7 +41,7 @@ Deux lignes de tendance sont tracées :
 
 ## 📋 Description
 This project analyzes historical sea level data and visualizes the rise in sea level over time.  
-It uses **Python**, **Pandas**, **Matplotlib**, and **SciPy** to create scatter plots and linear regression trend lines.
+It uses Python, Pandas, Matplotlib, and SciPy to create scatter plots and linear regression trend lines.
 
 Two trend lines are plotted:
 1. A line based on all available years in the dataset.  
