@@ -34,3 +34,42 @@ Deux lignes de tendance sont tracées :
 
 ## 📈 Résultat produit
 - `sea_level_plot.png` → Graphique de dispersion avec deux lignes de tendance prédisant l’élévation future du niveau de la mer  
+
+---
+
+# 🌊 Sea Level Rise Visualization (Certification Data Analysis with Python, FreeCodeCamp)
+
+## 📋 Description
+This project analyzes historical sea level data and visualizes the rise in sea level over time.  
+It uses **Python**, **Pandas**, **Matplotlib**, and **SciPy** to create scatter plots and linear regression trend lines.
+
+Two trend lines are plotted:
+1. A line based on all available years in the dataset.  
+2. A line based on data from the year 2000 onward, showing recent trends.
+
+## ⚙️ Main Features
+
+1. **Data Loading**
+   - Reads data from `epa-sea-level.csv`.  
+
+2. **Scatter Plot**
+   - Plots individual yearly measurements as points.  
+
+3. **Trend Lines**
+   - Computes and plots the line of best fit for all years (red).  
+   - Computes and plots the line of best fit from 2000 onward (green).  
+
+4. **Visualization**
+   - Adds labels for the x-axis (`Year`) and y-axis (`Sea Level (inches)`).  
+   - Adds a title (`Rise in Sea Level`) and a legend.  
+   - Saves the plot as `sea_level_plot.png`.  
+
+## 🧰 Tools & Technologies
+- **Python**  
+- **Pandas** — data manipulation  
+- **Matplotlib** — plotting  
+- **SciPy** — linear regression  
+- **Environment**: VS Code
+
+## 📈 Generated Output
+- `sea_level_plot.png` → Scatter plot with two trend lines predicting future sea level rise  
