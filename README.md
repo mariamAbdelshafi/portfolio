@@ -10,8 +10,20 @@ Ce portfolio regroupe mes projets les plus significatifs.
 Je cherche un stage en Data Science/Intelligence artificielle de 4 mois à partir du mois d'avril pour mettre mes compétences en pratique tout en apprenant aux côtés de professionnels expérimentés.
 
 # 🚀 Projets principaux
+# 🚀 Projets principaux
 
----
+### 🧮 [Demographic Data Analyzer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Demographic%20Data%20Analyzer)
+Analyse statistique d’un ensemble de données démographiques avec Python, Pandas et Matplotlib.  
+Objectif : explorer les relations entre différents facteurs socio-économiques.
+### 🧠 [Medical Data Visualizer](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Medical%20Data%20Visualizer)
+Projet de visualisation de données médicales (Certification *Data Analysis with Python*, FreeCodeCamp).  
+Création de graphiques pour explorer les corrélations entre les indicateurs de santé et les maladies cardiovasculaires.
+### 📱 [SaveSpot](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/SaveSpot)
+Application mobile Flutter pour les étudiants Erasmus.  
+Permet de découvrir, enregistrer et partager des bons plans (restaurants, cafés, lieux culturels, etc.).
+### 🌊 [Sea Level Predictor](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Sea%20Level%20Predictor)
+Projet de prédiction du niveau de la mer basé sur les données de la NASA (*EPA Sea Level Dataset*).  
+Utilisation de régressions linéaires pour visualiser et prédire la montée du niveau des océans d’ici 2050.
 
 # 🧰 Compétences techniques
 
