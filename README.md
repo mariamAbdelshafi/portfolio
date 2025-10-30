@@ -51,7 +51,7 @@ This portfolio showcases my most significant projects.
 # 🧠 About Me
 
 🎓 I am a Computer Science student with a strong interest in Data Science and Data Exploration.  
-I am currently looking for a **4-month internship in Data Science or Artificial Intelligence starting in April**, where I can apply my skills and learn alongside experienced professionals.
+I am currently looking for a 4-month internship in Data Science or Artificial Intelligence starting in April, where I can apply my skills and learn alongside experienced professionals.
 
 # 🚀 Main Projects
 
