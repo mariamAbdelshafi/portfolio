@@ -23,6 +23,9 @@ Permet de découvrir, enregistrer et partager des bons plans (restaurants, café
 ### 🌊 [Sea Level Predictor](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Sea%20Level%20Predictor)
 Projet de prédiction du niveau de la mer (*EPA Sea Level Dataset*) (Certification *Data Analysis with Python*, FreeCodeCamp).  
 Utilisation de régressions linéaires pour visualiser et prédire la montée du niveau des océans d’ici 2050.
+### ✋ [Contrôle du volume par gestes de la main](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Controle%20de%20volume%20PC)
+Projet interactif permettant de contrôler le volume du système à l’aide de gestes de la main grâce à la détection en temps réel via OpenCV, MediaPipe et PyCaw.  
+Utilise la distance entre le pouce et l’index pour ajuster dynamiquement le volume.
 
 # 🧰 Compétences techniques
 
@@ -75,6 +78,9 @@ Allows users to discover, save, and share local hotspots (restaurants, cafés, c
 ### 🌊 [Sea Level Predictor](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Sea%20Level%20Predictor)
 Sea level prediction project (*EPA Sea Level Dataset*) (Certification *Data Analysis with Python*, FreeCodeCamp).  
 Uses linear regression to visualize and predict ocean level rise up to 2050.
+### ✋ [Hand Gesture Volume Control](https://github.com/mariamAbdelshafi/portfolio/tree/main/Projects/Controle%20de%20volume%20PC)
+An interactive project that lets users control the system volume using hand gestures, powered by real-time detection with OpenCV, MediaPipe, and PyCaw. 
+The system volume changes dynamically based on the distance between the thumb and index finger.
 
 # 🧰 Technical Skills
 
